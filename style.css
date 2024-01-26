@@ -1,0 +1,24 @@
+h3 {
+    color: rgb(0, 0, 122);
+}
+
+body {
+    background-color:white;
+}
+
+h3 {
+    background-color: rgb(2, 2, 105);
+    color: white;
+}
+
+h3 {
+    text-decoration: white  underline;
+}
+
+header {
+    text-decoration: blue underline;
+}
+
+header {
+    font-size: 18px;
+}
